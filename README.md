@@ -1,4 +1,4 @@
-# basic-star-wars-quiz-game
+# Rules
 This program provides the user with 3 options.
 
 In the first option, the user can end their experience and their total points will be tallied.
